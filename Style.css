@@ -110,7 +110,7 @@ h4 {
 .newslatter form {
     width: 380px;
     max-width: 100%;
-    position: relative;
+    position: fixed;
 }
 
 .newslatter form input:first-child {
@@ -157,7 +157,7 @@ h4 {
     margin: 0 auto;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: right;
 }
 
 .about-text h2 {
@@ -209,7 +209,7 @@ button:hover {
 
 .title {
     color: white;
-    font-size: 75px;
+    font-size: 40px;
     width: 1000px;
     margin: 30px auto;
     text-align: center;
@@ -413,7 +413,7 @@ footer p:nth-child(3) {
     }
 
     .title {
-        width: 450px;
+        width: 250px;
     }
     .about img{
         width: 200px;
